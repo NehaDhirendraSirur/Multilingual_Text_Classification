@@ -1,5 +1,7 @@
 # Multilingual Text Classification with IndicCorp Dataset
 
+More details about this project are available in our research paper: [IEEE Xplore](https://ieeexplore.ieee.org/document/10923964).
+
 ## Overview
 This project presents a **Multilingual Text Classification System** using **IndicCorp**, a monolingual dataset with **11 Indic languages**. The methodology integrates **CountVectorizer** for feature extraction and **Multinomial Naïve Bayes** for classification, achieving **73.37% accuracy**.
 
